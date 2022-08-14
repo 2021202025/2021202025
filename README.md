@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manu Gupta</h1>
 <h3 align="center">A passionate developer and tech enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2021202025" alt="2021202025" /></a> </p>
+
 
 - 🔭 I have worked on projects like [Model Deployment and Service Platform, Backdoor encoded games, P2P file sharing, Crypto Library and various Video Games](https://github.com/2021202025?tab=repositories)
 
