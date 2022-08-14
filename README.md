@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I have worked on projects like [Model Deployment and Service Platform, Backdoor encoded games, P2P file sharing, Crypto Library and various Video Games](https://github.com/2021202025?tab=repositories)
+- 🔭 I have worked on projects like [Model Deployment and Service Platform], [Backdoor encoded games], [P2P file sharing], [Crypto Library and various Video Games](https://github.com/2021202025?tab=repositories)
 
 - 🌱 I’m currently learning **CCA secure crypto algos, Database system development**
 
