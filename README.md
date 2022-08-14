@@ -5,9 +5,8 @@
 
 - 🔭 I have worked on projects like:
 -  [Model Deployment and Service Platform](https://github.com/2021202025?tab=repositories)
--  [Backdoor encoded games](https://github.com/2021202025?tab=repositories)
--  [P2P file sharing](https://github.com/2021202025?tab=repositories)
--  [Crypto Library](https://github.com/2021202025?tab=repositories)
+-  [Backdoor encoded games](https://github.com/2021202025?tab=repositories), [Crypto Library](https://github.com/2021202025?tab=repositories)
+-  [OS Terminal](https://github.com/2021202025?tab=repositories), [P2P file sharing](https://github.com/2021202025?tab=repositories)
 -  [Video Games](https://github.com/2021202025?tab=repositories)
 
 - 🌱 I’m currently learning **CCA secure crypto algos, Database system development**
