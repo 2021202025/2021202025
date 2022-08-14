@@ -3,12 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I+am+Manu!;Computer+Science+Student;I'm+a+Developer+and+enthusiast...;Engineering+is+awesome+:);&center=true&width=500&height=50"></a>
 </p>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 - 🔭 I have worked on projects like:
