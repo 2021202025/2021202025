@@ -50,5 +50,5 @@
 </p>
 <br>
 
-[![Manu' Activity Graph](https://activity-graph.herokuapp.com/graph?username=2021202025&custom_title=Manu's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Manu' Activity Graph](https://activity-graph.herokuapp.com/graph?username=2021202025&custom_title=Manu's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/2021202025?tab=repositories)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2021202025&" alt="2021202025" /></p>
