@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Manu!;I'm+a+Developer+and+a+tech+enthusiast...;Engineering+fascinates+me;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Manu!;I'm+a+Developer+and+enthusiast...;Engineering+fascinates+me;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
