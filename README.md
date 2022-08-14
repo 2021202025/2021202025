@@ -1,5 +1,12 @@
 <h1 align="center">Hi, I'm Manu Gupta</h1>
 <h3 align="center">A passionate developer and tech enthusiast from India</h3>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 - 🔭 I have worked on projects like:
