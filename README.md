@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manu Gupta</h1>
 <h3 align="center">A passionate developer and tech enthusiast from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
 
 
 - 🔭 I have worked on projects like:
