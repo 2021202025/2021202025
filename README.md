@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Manu Gupta</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Manu!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
-<h3 align="center">A passionate developer and tech enthusiast from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Manu!;I'm+a+Developer+and+a+tech+enthusiast...;Engineering+fascinates+me;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
