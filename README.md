@@ -1,6 +1,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+Manu!;I'm+a+Developer+and+enthusiast...;Engineering+fascinates+me;)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I+am+Manu!;Computer+Science+Student;I'm+a+Developer+and+enthusiast...;Engineering+is+awesome+:);&center=true&width=500&height=50"></a>
+</p>
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
