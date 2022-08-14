@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manu Gupta</h1>
 <h3 align="center">A passionate developer and tech enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
-
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 - 🔭 I have worked on projects like:
 -  [Model Deployment and Service Platform](https://github.com/2021202025?tab=repositories)
