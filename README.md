@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/manu-gupta-50b478150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manu-gupta-50b478150" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/2021202025_manu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2021202025_manu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manu210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manu210" height="30" width="40" /></a>
+<!---<a href="https://www.leetcode.com/manu210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manu210" height="30" width="40" /></a>-->
 <a href="https://auth.geeksforgeeks.org/user/manugupta1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="manugupta1/profile" height="30" width="40" /></a>
 </p>
 
