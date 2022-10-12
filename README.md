@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **CCA secure crypto algos, Database system development**
 
-- 👨‍💻 All of my projects are available at [https://2021202025.github.io/](https://2021202025.github.io/)
+- 👨‍💻 All of my projects are available in my Repos and [https://2021202025.github.io/](https://2021202025.github.io/)
 
 - 💬 Ask me about **Video Games, Python, Crypto Algorithms**
 
