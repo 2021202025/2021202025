@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **manu.gupta@students.iiit.ac.in, gmanu21097@gmail.com**
 
-- 📄 My CV [https://iiitaphyd-my.sharepoint.com/:b:/g/personal/manu_gupta_students_iiit_ac_in/ETjn2IOA9hNCrg5r1qYO0gkB1swkysaX0cyceFu5WfAplg?e=ynHann](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/manu_gupta_students_iiit_ac_in/ETjn2IOA9hNCrg5r1qYO0gkB1swkysaX0cyceFu5WfAplg?e=ynHann)
+- 📄 My CV [https://iiitaphyd-my.sharepoint.com/:b:/g/personal/manu_gupta_students_iiit_ac_in/ETjn2IOA9hNCrg5r1qYO0gkB1swkysaX0cyceFu5WfAplg?e=ynHann](https://iiitaphyd-my.sharepoint.com/:b:/g/personal/manu_gupta_students_iiit_ac_in/EeUNSyk02MdDjLSNdfI-M6kBIqugOP4kw3HRJwIRH0YxYA?e=wTZvC8)
 
 - ⚡ Fun fact **I can eat 2 whole pizzas :|**
 
